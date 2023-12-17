@@ -1,0 +1,15 @@
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/bin/Debug/net7.0/generic-constraint
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/bin/Debug/net7.0/generic-constraint.deps.json
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/bin/Debug/net7.0/generic-constraint.runtimeconfig.json
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/bin/Debug/net7.0/generic-constraint.dll
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/bin/Debug/net7.0/generic-constraint.pdb
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.csproj.AssemblyReference.cache
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.AssemblyInfoInputs.cache
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.AssemblyInfo.cs
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.csproj.CoreCompileInputs.cache
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.dll
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/refint/generic-constraint.dll
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.pdb
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/generic-constraint.genruntimeconfig.cache
+/Users/ziyamemmedli/Projects/generic-constraint/generic-constraint/obj/Debug/net7.0/ref/generic-constraint.dll
